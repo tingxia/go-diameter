@@ -12,6 +12,7 @@ const (
 	AbortSession              = 274
 	Accounting                = 271
 	AuthenticationInformation = 318
+	CancelLocation            = 317
 	CapabilitiesExchange      = 257
 	CreditControl             = 272
 	DeviceWatchdog            = 280
@@ -45,4 +46,6 @@ const (
 	STR = "STR"
 	ULA = "ULA"
 	ULR = "ULR"
+	CLA = "CLA"
+	CLR = "CLR"
 )
