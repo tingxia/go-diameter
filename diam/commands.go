@@ -36,8 +36,6 @@ const (
 	CCR = "CCR"
 	CEA = "CEA"
 	CER = "CER"
-	CLA = "CLA"
-	CLR = "CLR"
 	DPA = "DPA"
 	DPR = "DPR"
 	DWA = "DWA"
@@ -48,4 +46,6 @@ const (
 	STR = "STR"
 	ULA = "ULA"
 	ULR = "ULR"
+	CLA = "CLA"
+	CLR = "CLR"
 )

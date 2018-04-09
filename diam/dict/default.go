@@ -1900,7 +1900,6 @@ var networkaccessserverXML = `<?xml version="1.0" encoding="UTF-8"?>
 			<!-- http://tools.ietf.org/html/rfc7155#section-4.6.11 -->
 			<data type="Unsigned32"/>
 		</avp>
-
 	</application>
 </diameter>`
 
